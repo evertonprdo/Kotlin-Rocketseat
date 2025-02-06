@@ -2,4 +2,7 @@
     <string name="app_name">MyFirstAppAndroid</string>
     <string name="hello_world">Hello World!</string>
     <string name="android_logo">Android Logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_age_gen">"Name: %1$s\nAge: %2$s y.o\nGen: %3$s\n"</string>
 </resources>
